@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola! Soy Pedro </h1>
-<p align="center">🚀 Emprendedor | Desarrollador Full Stack | IA & Automatización</p>
+<p align="center">Emprendedor | Desarrollador Full Stack | IA & Automatización</p>
 
 ---
 
@@ -16,11 +16,9 @@
 
 ---
 
-### 📊 Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuario&theme=radical" width="48%" alt="GitHub Streak" />
-</p>
+### 🚧 En qué estoy trabajando ahora  
+🔹 Kiwi ConsultorIA: ayudando a las empresas a automatizar sus procesos más tediosos y aprovechar la IA.
+🔹 The StartUp Journal: creando la base de datos de VCs, ángeles y aceleradoras más grande y completa de LATAM.
 
 ---
 
