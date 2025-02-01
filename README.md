@@ -1,16 +1,30 @@
-### Uh peren que no sé qué poner 🐟
+<h1 align="center">👋 ¡Hola! Soy Pedro </h1>
+<p align="center">🚀 Emprendedor | Desarrollador Full Stack | IA & Automatización</p>
 
-<!--
-**Pekiian/PEKIIAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Sobre mí  
+💡 Apasionado por la tecnología y la innovación.  
+💻 Me especializo en crear soluciones que optimizan procesos y potencian negocios.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tecnologías y herramientas  
+💻 **Lenguajes:** [JavaScript, TypeScript, Python].
+🛠️ **Frameworks & Libraries:** [React, NextJS, Puppeteer,ExpressJS, Selenium].  
+🗄️ **Bases de datos:** [PostgreSQL, MongoDB].
+
+---
+
+### 📊 Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuario&theme=radical" width="48%" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📬 Conectemos  
+📌 [LinkedIn](#https://linkedin.com/in/pedro-rodriguez-chiantore)
+
+⭐ *Si te gusta lo que hago, ¡escribime sin duda!* 🚀
