@@ -11,18 +11,18 @@
 ---
 
 ### 🔧 Tecnologías y herramientas  
-💻 **Lenguajes:** [JavaScript, TypeScript, Python].
+💻 **Lenguajes:** JavaScript, TypeScript, Python.
 
-🛠️ **Frameworks & Libraries:** [React, NextJS, Puppeteer,ExpressJS, Selenium]. 
+🛠️ **Frameworks & Libraries:** React, NextJS, Puppeteer, ExpressJS, Selenium. 
  
-🗄️ **Bases de datos:** [PostgreSQL, MongoDB].
+🗄️ **Bases de datos:** PostgreSQL, MongoDB.
 
 ---
 
 ### 🚧 En qué estoy trabajando ahora  
-🔹 **Kiwi ConsultorIA**: ayudando a las empresas a automatizar sus procesos más tediosos y aprovechar la IA.
+🔹 **Kiwi ConsultorIA:** ayudando a las empresas a automatizar sus procesos más tediosos y aprovechar la IA.
 
-🔹 **The StartUp Journal**: creando la base de datos de VCs, ángeles y aceleradoras más grande y completa de LATAM.
+🔹 **The StartUp Journal:** creando la base de datos de VCs, ángeles y aceleradoras más grande y completa de LATAM.
 
 ---
 
