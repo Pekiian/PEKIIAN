@@ -20,8 +20,6 @@
 ---
 
 ### 🚧 En qué estoy trabajando ahora  
-🔹 **Kiwi ConsultorIA:** ayudando a las empresas a automatizar sus procesos más tediosos y aprovechar la IA.
-
 🔹 **The StartUp Journal:** creando la base de datos de VCs, ángeles y aceleradoras más grande y completa de LATAM.
 
 ---
